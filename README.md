@@ -1,2 +1,2 @@
-# Dictionary_ChromeExtension
-Allows you to search meaning of any words
+![alt text](image1.png)
+![alt text](image2.png)
